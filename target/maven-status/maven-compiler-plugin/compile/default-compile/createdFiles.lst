@@ -1,0 +1,6 @@
+edu\cibertec\capitulo4\Borrame.class
+edu\cibertec\capitulo4\dao\repository\UsuarioRepositorio.class
+edu\cibertec\capitulo4\entity\UsuarioEntity.class
+edu\cibertec\capitulo4\service\UsuarioService.class
+edu\cibertec\capitulo4\SaludoController.class
+edu\cibertec\capitulo4\controller\UsuarioController.class
